@@ -6,7 +6,7 @@
     "@types/react": "^16.9.1",
     "apollo-client": "^2.6.4",
     "apollo-link": "^1.2.12",
-    "aws-amplify": "^1.1.36",
+    "aws-amplify": "^6.15.6",
     "aws-amplify-react": "^2.3.12",
     "aws-appsync": "^1.8.1",
     "graphql": "^14.4.2",
